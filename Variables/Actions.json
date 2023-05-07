@@ -2,7 +2,7 @@
     "Variables": [
       {
         "Name": "DOCKER_HUB_IMAGE",
-        "Value": "predictionbotservice/data-management-service",
+        "Value": "predictionbotservice/prediction-service",
         "Scope": {
             "Environment": [
               "Deploy"
